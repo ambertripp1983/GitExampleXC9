@@ -14,7 +14,7 @@ class ViewController: NSViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        print("Some changes maded in Ambers Branch")
+        print("Merged with master branch")
     }
 
     override var representedObject: Any? {
